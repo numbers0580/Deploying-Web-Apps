@@ -18,6 +18,10 @@ Follow these steps for completing your project.
 - [ ] Once you have finished, your TL will count the project as completed
 
 # Project - Portfolio Piece
+I have uploaded two projects to Vercel:
+1: https://react-redux-app-neon.vercel.app/
+
+2: https://car-sales-beta.vercel.app/
 
 ## Directions
 
